@@ -1,0 +1,2 @@
+# vtrick
+VTrick template resource
