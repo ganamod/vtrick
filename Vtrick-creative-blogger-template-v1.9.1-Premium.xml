@@ -2905,7 +2905,7 @@ font-weight:bold;font-size:12px;
 
 	</b:if>
 <!-- Threaded Comment-->
-<script async src="https://cdn.jsdelivr.net/gh/vietrick/Blogger@1.0/comments/thread-comments.min.js"></script>
+<script async src="https://cdn.jsdelivr.net/gh/ganamod/Blogger/comments/thread-comments.js"></script>
 <!-- Time ago-->
 <script>
 //<![CDATA[
